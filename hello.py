@@ -3,3 +3,5 @@ def more_hello():
 
 def more_goobye():
     return "Goodbye"
+
+var = var 
